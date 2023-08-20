@@ -1,0 +1,137 @@
+.background{
+    background-color: #A8DF8E;
+    height: 80vh;
+}
+#text{
+    color: #F3FDE8;
+    
+    animation-duration: 3s;
+    animation-name: slide;
+    
+}
+@keyframes slidein{
+    from {
+        margin-left: 100%;
+
+    }
+    to {
+        margin-left: 0%;
+    }
+}
+.text-1{
+    font-family: cursive;
+    font-weight: bold;
+    color: #F3FDE8;
+    align-items: center;
+    margin-top: 23vh;
+}
+div {
+    display: block;
+    
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: x-large;
+}
+.me{
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 80vh;
+    
+    
+}
+.nihu{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    
+}
+.profile{
+    margin-top: 10vh;
+}
+.skills{
+    align-items: center;
+    padding-left: 17vh;
+}
+.clouds{
+    height: 5px;
+    width: 7px;
+    size-adjust: 70px;
+    position: relative;
+    left: 40px;
+    
+    
+}
+.cloudss{
+    height: 5px;
+    width: 7px;
+    size-adjust: 70px;
+    position: relative;
+    left: 160vh;
+}
+
+.cloudsss{
+    height: 5px;
+    width: 7px;
+    size-adjust: 70px;
+    position: relative;
+    top: 40vh;
+    left: 40px;
+}
+
+.cloudssss{
+    height: 5px;
+    width: 7px;
+    size-adjust: 70px;
+    position: relative;
+    left: 160vh;
+    top: 40vh;
+   
+}
+.cloud-2{
+    height: 250px;
+    width: 270px;
+    margin-top: 0;
+    padding-top: 0%;
+    border-top: 0
+    
+    
+    
+
+}
+
+.cloud-3{
+    height: 250px;
+    width: 270px;
+    margin-top: 0;
+    padding-top: 0%;
+    border-top: 0
+
+}
+
+.cloud-4{
+    height: 250px;
+    width: 270px;
+    margin-top: 0;
+    padding-top: 0%;
+    border-top: 0
+
+}
+
+.cloud-1{
+    height: 250px;
+    width: 270px;
+    margin-top: 0;
+    padding-top: 0%;
+    border-top: 0
+
+}
+.all-cards{
+    display: flex;
+    gap: 10px;
+}
